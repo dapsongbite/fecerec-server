@@ -1,4 +1,4 @@
-# facerec serner
+# facerec server
 Face recognition project 
 
 1. Clone this repo
