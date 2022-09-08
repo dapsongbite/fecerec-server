@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 const handleProfileGet = (req, res, db) => {
   const { id } = req.params;
   db.select('*').from('users').where({id})
@@ -30,5 +30,4 @@ const handleProfileGet = (req, res, db) => {
 
 module.exports = {
   handleProfileGet
->>>>>>> 4093c031813509eb989703b1b398ad01389dad5e
 };
